@@ -4,7 +4,7 @@ Integration with the [Twitch](http://twitch.tv) API for Meteor.
 
 ## Installation
 
-    meteor add jameslefrere:twitch
+    meteor add aibit:twitch
 
 @todo: Explain Twitch application setup
 
