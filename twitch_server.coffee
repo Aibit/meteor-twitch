@@ -11,6 +11,7 @@ OAuth.registerService "twitch", 2, null, (query) ->
     created_at: identity.created_at
     updated_at: identity.updated_at
     logo: identity.logo
+    scope: identity.scope
     _links: identity._links
     email: identity.email
     partnered: identity.partnered
