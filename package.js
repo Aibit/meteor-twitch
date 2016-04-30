@@ -1,8 +1,8 @@
 Package.describe({
-  name: "jameslefrere:twitch",
+  name: "aibit:twitch",
   summary: "Twitch API integration for Meteor",
-  version: "0.1.3",
-  git: "https://github.com/JamesLefrere/meteor-twitch.git"
+  version: "0.1",
+  git: "https://github.com/Aibit/meteor-twitch.git"
 });
 
 Package.onUse(function(api) {
